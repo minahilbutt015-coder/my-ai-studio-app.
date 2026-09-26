@@ -1,0 +1,6 @@
+{
+  "name": "ComposeAuth - Jetpack Compose Auth UI & Prompt Studio",
+  "description": "Interactive Material Design 3 Jetpack Compose authentication preview, password visibility toggle, live Kotlin code exporter, and production Android prompt generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
